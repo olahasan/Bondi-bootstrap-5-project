@@ -5,7 +5,6 @@ this is a simple bootstrap template . it contains html file and bootstrap file.
 ## Table of contents
 
 - [Overview](#overview)
-- [Features](#Features)
 - [Installation](#Installation)
 - [Links](#Links)
 - [Screenshot](#Screenshot)
@@ -17,12 +16,6 @@ this is a simple bootstrap template . it contains html file and bootstrap file.
 
 ## overview
 this is a simple bootstrap template . it contains html file and bootstrap file.
-
-
-## Features
-- Add new todo items
-- Delete existing todo items
-
 
 ## Installation
 To get started with this project, follow these steps:
