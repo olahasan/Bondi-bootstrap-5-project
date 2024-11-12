@@ -37,7 +37,7 @@ Otherwise, all links will open in the same tab.
 
 - Solution URL: [here](https://github.com/olahasan/Bondi-bootstrap-5-project)
 
-- Live Site URL: [here](https://olahasan.github.io/Bondi-bootstrap-5-project/)
+- Live Site URL: [here](https://olahasan.github.io/Bondi-bootstrap-5-project-elzero/)
 
 
  ## Screenshot
